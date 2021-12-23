@@ -8,7 +8,7 @@ export const Layout = ({ children }) => {
   return (
     <>
       <Head>
-        <title>Hà Hoàng Nguyên - Porfolio</title>
+        <title>Hà Hoàng Nguyên - Portfolio</title>
       </Head>
       <Container>
         <Header />

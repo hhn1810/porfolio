@@ -2,7 +2,7 @@ export const projects = [
   {
     title: 'Landify Landing Page',
     description: 'Convert Landify landing page from Figma using HTML,CSS,JS',
-    image: '/images/landify.png',
+    image: '/images/landify.PNG',
     tags: ['Figma', 'HTML', 'CSS', 'JS'],
     source: 'https://github.com/hhn1810/landify',
     visit: 'http://landify.surge.sh/',
@@ -12,7 +12,7 @@ export const projects = [
     title: 'Clone Thecoffeehouse',
     description:
       'Clone homepage and product page from Thecoffeehouse.com using HTML,CSS,JS',
-    image: '/images/thecoffeehouse.png',
+    image: '/images/thecoffeehouse.PNG',
     tags: ['HTML', 'CSS', 'JS'],
     source: 'https://github.com/hhn1810/thecoffeehouse-clone',
     visit: 'https://thecoffeehouse.surge.sh/',
@@ -21,7 +21,7 @@ export const projects = [
   {
     title: 'Gallery Image',
     description: 'Gallery Image with HTML , CSS, JS and Pexel API',
-    image: '/images/gallery.png',
+    image: '/images/gallery.PNG',
     tags: ['HTML', 'CSS', 'JS'],
     source: 'https://github.com/hhn1810/gallery-image',
     visit: 'https://gallery-image.surge.sh/',
@@ -31,7 +31,7 @@ export const projects = [
     title: 'Todo App with Redux',
     description:
       'This is a code repository for the Todo app with Redux toolkit ',
-    image: '/images/todo.png',
+    image: '/images/todo.PNG',
     tags: ['React', 'Redux', 'Redux toolkit'],
     source: 'https://github.com/hhn1810/todo-app-redux',
     visit: 'https://todo-app-hhn.herokuapp.com/',
@@ -41,7 +41,7 @@ export const projects = [
     title: 'Trello App with Reactjs,Nodejs,MongoDB',
     description:
       'Basic trello app with Front end using Reactjs, Backend using Nodejs ,Expressjs',
-    image: '/images/trello.png',
+    image: '/images/trello.PNG',
     tags: ['React', 'Nodejs', 'MongoDB'],
     source: 'https://github.com/hhn1810/trello-clone',
     visit: 'https://trello-clone-web-ff98b.web.app/',
@@ -50,7 +50,7 @@ export const projects = [
   {
     title: 'Crypto App with Redux Toolkit',
     description: 'Crypto app using React,Redux toolkit, RapiApi',
-    image: '/images/crypto.png',
+    image: '/images/crypto.PNG',
     tags: ['React', 'Redux', 'Redux toolkit', 'RapiApi'],
     source: 'https://github.com/hhn1810/crypto-app',
     visit: 'http://crypto-app-hhn.herokuapp.com/',

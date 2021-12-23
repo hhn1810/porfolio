@@ -51,7 +51,7 @@ const Header = () => (
         <AiFillGithub size="3rem" />
       </SocialIcons>
       <SocialIcons
-        href={`https://${'linkedin.com/in/ha-hoang-nguyen'}`}
+        href={`https://${'facebook.com/nguyen181099/'}`}
         target="_blank"
       >
         <AiFillLinkedin size="3rem" />

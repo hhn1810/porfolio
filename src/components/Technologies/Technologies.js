@@ -18,10 +18,6 @@ const Technologies = () => (
   <Section id="tech">
     <SectionDivider divider />
     <SectionTitle>Technologies</SectionTitle>
-    <SectionText>
-      I graduated from university with a degree in information technology in
-      2022 and now I am a frontend developer
-    </SectionText>
     <List>
       <ListItem>
         <picture>

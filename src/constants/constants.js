@@ -1,46 +1,67 @@
 export const projects = [
   {
-    title: 'MERN Memories',
-    description: "Using React, Node.js, Express & MongoDB you'll learn how to build a Full Stack MERN Application - from start to finish. The App is called Memories and it is a simple social media app that allows users to post interesting events that happened in their lives.",
-      image: '/images/1.png',
-      tags: ['Mongo', 'Express', 'React', 'Node'],
-    source: 'https://google.com',
-    visit: 'https://google.com',
-    id: 0,
+    title: 'Landify Landing Page',
+    description: 'Convert Landify landing page from Figma using HTML,CSS,JS',
+    image: '/images/landify.png',
+    tags: ['Figma', 'HTML', 'CSS', 'JS'],
+    source: 'https://github.com/hhn1810/landify',
+    visit: 'http://landify.surge.sh/',
+    id: 0
   },
   {
-    title: 'E-Commerce',
-    description:"While building it you're going to learn many advanced React & JavaScript topics, as well as how to use Stripe for card transactions. On top of that, at the end of the video, you will have this unique and complex webshop app that you will be able to add to your portfolio. And trust me, e-commerce applications are impressive.",
-    image: '/images/2.png',
-    tags: ['React', 'JavaScript'],
-    source: 'https://google.com',
-    visit: 'https://google.com',
-    id: 1,
+    title: 'Clone Thecoffeehouse',
+    description:
+      'Clone homepage and product page from Thecoffeehouse.com using HTML,CSS,JS',
+    image: '/images/thecoffeehouse.png',
+    tags: ['HTML', 'CSS', 'JS'],
+    source: 'https://github.com/hhn1810/thecoffeehouse-clone',
+    visit: 'https://thecoffeehouse.surge.sh/',
+    id: 1
   },
   {
-    title: 'WebRTC App',
-    description: "This is a code repository for the corresponding YouTube video. In this tutorial, we're going to build and deploy a React Video Chat Application using WebRTC.",
-      image: '/images/3.jpg',
-      tags: ['React', 'WebRTC'],
-    source: 'https://google.com',
-    visit: 'https://google.com',
-    id: 2,
+    title: 'Gallery Image',
+    description: 'Gallery Image with HTML , CSS, JS and Pexel API',
+    image: '/images/gallery.png',
+    tags: ['HTML', 'CSS', 'JS'],
+    source: 'https://github.com/hhn1810/gallery-image',
+    visit: 'https://gallery-image.surge.sh/',
+    id: 2
   },
   {
-    title: 'Unichat',
-    description: "This is a code repository for the corresponding video tutorial. In this video, we will create a full Realtime Chat Application",
-    image: '/images/4.jpg',
-    tags: ['React', 'ChatEngine', 'Firebase'],
-    source: 'https://google.com',
-    visit: 'https://google.com',
-    id: 3,
+    title: 'Todo App with Redux',
+    description:
+      'This is a code repository for the Todo app with Redux toolkit ',
+    image: '/images/todo.png',
+    tags: ['React', 'Redux', 'Redux toolkit'],
+    source: 'https://github.com/hhn1810/todo-app-redux',
+    visit: 'https://todo-app-hhn.herokuapp.com/',
+    id: 3
   },
-];
+  {
+    title: 'Trello App with Reactjs,Nodejs,MongoDB',
+    description:
+      'Basic trello app with Front end using Reactjs, Backend using Nodejs ,Expressjs',
+    image: '/images/trello.png',
+    tags: ['React', 'Nodejs', 'MongoDB'],
+    source: 'https://github.com/hhn1810/trello-clone',
+    visit: 'https://trello-clone-web-ff98b.web.app/',
+    id: 4
+  },
+  {
+    title: 'Crypto App with Redux Toolkit',
+    description: 'Crypto app using React,Redux toolkit, RapiApi',
+    image: '/images/crypto.png',
+    tags: ['React', 'Redux', 'Redux toolkit', 'RapiApi'],
+    source: 'https://github.com/hhn1810/crypto-app',
+    visit: 'http://crypto-app-hhn.herokuapp.com/',
+    id: 5
+  }
+]
 
 export const TimeLineData = [
-  { year: 2017, text: 'Started my journey', },
-  { year: 2018, text: 'Worked as a freelance developer', },
-  { year: 2019, text: 'Founded JavaScript Mastery', },
-  { year: 2020, text: 'Shared my projects with the world', },
-  { year: 2021, text: 'Started my own platform', },
-];
+  {
+    year: 2017,
+    text: 'Start studying at Vinh Long University Technology of Education'
+  },
+  { year: 2022, text: 'Graduated with 2.9/4.0 GPA' }
+]

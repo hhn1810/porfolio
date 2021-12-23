@@ -1,6 +1,6 @@
 import Link from 'next/link'
 import React from 'react'
-import { AiFillGithub, AiFillFacebook, AiFillLinkedin } from 'react-icons/ai'
+import { AiFillGithub, AiFillFacebook } from 'react-icons/ai'
 import { DiCssdeck } from 'react-icons/di'
 
 import {
@@ -49,12 +49,6 @@ const Header = () => (
     <Div3>
       <SocialIcons href={`https://${'github.com/hhn1810'}`} target="_blank">
         <AiFillGithub size="3rem" />
-      </SocialIcons>
-      <SocialIcons
-        href={`https://${'linkedin.com/in/ha-hoang-nguyen'}`}
-        target="_blank"
-      >
-        <AiFillLinkedin size="3rem" />
       </SocialIcons>
       <SocialIcons
         href={`https://${'facebook.com/nguyen181099/'}`}

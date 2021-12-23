@@ -47,14 +47,17 @@ const Header = () => (
       </li>
     </Div2>
     <Div3>
-      <SocialIcons href="https://github.com/hhn1810" target="_blank">
+      <SocialIcons href={`https://${'github.com/hhn1810'}`} target="_blank">
         <AiFillGithub size="3rem" />
       </SocialIcons>
-      <SocialIcons href="www.linkedin.com/in/ha-hoang-nguyen" target="_blank">
+      <SocialIcons
+        href={`https://${'linkedin.com/in/ha-hoang-nguyen'}`}
+        target="_blank"
+      >
         <AiFillLinkedin size="3rem" />
       </SocialIcons>
       <SocialIcons
-        href="https://www.facebook.com/nguyen181099/"
+        href={`https://${'facebook.com/nguyen181099/'}`}
         target="_blank"
       >
         <AiFillFacebook size="3rem" />
